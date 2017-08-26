@@ -1,7 +1,7 @@
 # console-cape
 "psuedo" cape for the BeagleBone to display the serial console from the FTDI header on a TFT LCD.  The purpose is to be able to view U-Boot bootloader messages from the BeagleBone without having to have a laptop and USB-to-serial cable.
 
-[![Photo of rev 0 prototype](https://raw.githubusercontent.com/pdp7/console-cape/master/images/rev0/photo1.jpg)](https://raw.githubusercontent.com/pdp7/console-cape/master/images/rev0/photo1.jpg)
+[![Photo of rev 0 prototype](https://raw.githubusercontent.com/pdp7/console-cape/master/images/rev0/photo1.jpg)](https://oshpark.com/projects/eaos4FIc)
 
 ### Revision 1
 * **UNTESTED**
