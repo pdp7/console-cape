@@ -9,6 +9,6 @@
 ### rev 1
 * added header for [Adafruit 2.8" TFT LCD ILI9341 [PID 1770]](https://www.adafruit.com/product/1770)
 * commit: [c39be8a](https://github.com/pdp7/console-cape/commit/c39be8ada9da4000ea4db9afabc903f09d86c110)
-* [OSH Park shared project](https://oshpark.com/projects/eaos4FIc)
+* [OSH Park shared project: eaos4FIc](https://oshpark.com/projects/eaos4FIc)
 
 
