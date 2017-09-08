@@ -1,3 +1,2 @@
 (fp_lib_table
-  (lib (name console-cape)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
 )
